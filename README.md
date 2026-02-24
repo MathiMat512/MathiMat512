@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Mathias Daniel</h1>
 <h3 align="center">Soy un estudiante muy apasionado de la carrera de Desarrollo de software.</h3>
 
-- 💬 Ask me about **Angular, HTML, CSS, Kotlin.**
+- 💬 Ask me about **React, Java, Spring, NodeJS, SQL, Bootstrap.**
 
 - 📫 How to reach me **mathias.mathimat12@gmail.com**
 
