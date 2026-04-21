@@ -1,14 +1,14 @@
 <h1 align="center">Hola 👋, Me llamo Mathias Daniel</h1>
-<h3 align="center">Soy un estudiante muy apasionado de la carrera de Desarrollo de software.</h3>
+<h3 align="center">Estudiante de la carrera de Desarrollo de Software con experiencia considerable en proyectos reales.</h3>
 
-- 💬 Ask me about **React, Java, Spring, NodeJS, SQL, Bootstrap.**
+- 💬 Ask me about **React, Java, Spring, NodeJS, SQL, Bootstrap, Angular, Tailwind.**
 
 - 📫 How to reach me **mathias.mathimat12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mathias-bautista-onofre-774751302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mathias-bautista-onofre-774751302/" height="30" width="40" /></a>
-<a href="https://instagram.com/mathias.bautista04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mathias.bautista04" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mathiasbautista512/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mathias-bautista-onofre-774751302/" height="30" width="40" /></a>
+<a href="https://instagram.com/daniveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mathias.bautista04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
