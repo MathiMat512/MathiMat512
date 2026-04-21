@@ -17,8 +17,8 @@
 
 ### 👨‍💻 Sobre Mí
 
-- 💼 Desarrollando aplicaciones web, sistemas de gestión y soluciones orientadas al negocio.
-- 💬 **Pregúntame sobre:** `React`, `Java`, `Spring Boot`, `Bases de Datos` y arquitectura de software.
+- 💼 Desarrollando aplicaciones web, sistemas de gestión y automatizaciones con conocimientos en lógica de negocios y arquitectura de software.
+- 💬 **Pregúntame sobre:** `React`, `Java`, `Spring Boot`, `Bases de Datos`, automatizaciones y despliegues.
 - 📫 **Contáctame en:** [mathias.mathimat12@gmail.com](mailto:mathias.mathimat12@gmail.com)
 
 ### 🛠️ Tecnologías y Herramientas
@@ -43,6 +43,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="45" alt="SQL Server" title="SQL Server" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" alt="Git" title="Git" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
 </div>
 
 ---
